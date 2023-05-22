@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes Pro</string>
+    <string name="hello">Hello,</string>
+    <string name="create">create account</string>
+    <string name="login">LOGIN</string>
+    <string name="login2">login</string>
+    <string name="qwe">Already have an account? </string>
+    <string name="no_acc">No account </string>
+    <string name="lets_start">Let\'s start!</string>
+    <string name="search">search</string>
+    <string name="logout">LOGOUT</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="delete">Delete note</string>
+    <string name="add">Add new note</string>
+
+
+
+</resources>

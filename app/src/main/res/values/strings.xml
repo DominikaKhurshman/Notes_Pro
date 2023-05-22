@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes Pro</string>
+    <string name="hello">Привет,</string>
+    <string name="create"> создать аккаунт</string>
+    <string name="login">ВОЙТИ</string>
+    <string name="login2"> вход</string>
+    <string name="qwe">Уже есть аккаунт? </string>
+    <string name="no_acc">Нет аккаунта? </string>
+    <string name="lets_start">Давай начнем!</string>
+    <string name="search">поиск</string>
+    <string name="logout">выход</string>
+    <string name="title">загаловок</string>
+    <string name="content">содержание</string>
+    <string name="delete">удалить заметку</string>
+    <string name="add">Добавить новую заметку</string>
+
+
+
+</resources>
